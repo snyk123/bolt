@@ -2,7 +2,7 @@
   "name": "pkg-c",
   "version": "1.0.0",
   "dependencies": {
-    "react": "^15.6.1",
+    "react": "^16.5.0",
     "pkg-b": "^1.0.0"
   }
 }
