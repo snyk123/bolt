@@ -7,6 +7,6 @@
     "bar2": "bin/anotherBar.js"
   },
   "dependencies": {
-    "react": "^15.6.1"
+    "react": "^16.5.0"
   }
 }
