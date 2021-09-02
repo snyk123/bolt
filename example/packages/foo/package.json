@@ -11,7 +11,7 @@
     "workspaces": ["packages/*"]
   },
   "dependencies": {
-    "react": "^15.6.1",
+    "react": "^16.5.0",
     "bar-workspace-package": "^1.0.0"
   }
 }
